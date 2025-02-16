@@ -1,0 +1,1 @@
+- [ ] Script de migración [Bots Legacy](https://www.notion.so/jelou/Procedimiento-general-9915fa39caa1447c94e758b108f27d4f)
