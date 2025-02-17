@@ -12,14 +12,28 @@
 - [ ] Realizar una revisión periódica de las características de seguridad
 - [ ] Revisar riesgos relacionados al acceso no autorizado
 - [ ] Coordinar capacitación del Plan de Continuidad cada 6 meses
+- [ ] Concientizar a usuarios ataques de phishing
+
+# Apps
+
+- [x] Coordinar reunión Jelou Website
+- [ ] Notion Docs Azure SSO
+
 # Brain
 
 - [ ] Script de migración [Bots Legacy](https://www.notion.so/jelou/Procedimiento-general-9915fa39caa1447c94e758b108f27d4f)
+- [ ] Release de Memory V2
 # Infrastructure
 
-- [ ] Action for deploy Lambda Function
+- [x] Action for deploy Lambda Function
+	- [ ] Deploy and set DomainName based on stage
+
+# Information Technology
+- [ ] Docs administrar claves de API
 
 # Management
 - [ ] Agendar reuniones KPI
 - [ ] Revisar indicadores del equipo
 - [ ] Indicadores institucionales
+- [x] Capacitaciones del equipo
+- [ ] Feedback Cristina Pazmiño
