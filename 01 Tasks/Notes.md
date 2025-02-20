@@ -27,6 +27,7 @@
 
 - [x] Action for deploy Lambda Function
 	- [ ] Deploy and set DomainName based on stage
+- [ ] Diagrama de arquitectura de microservicios
 
 # Information Technology
 - [ ] Docs administrar claves de API
